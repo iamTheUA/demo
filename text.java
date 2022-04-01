@@ -6,5 +6,6 @@ class Text{
         int b=20;
     }
 }
-hello boyeee
-gygyyg
+
+gg boyree;
+hello boyeee;
